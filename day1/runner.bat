@@ -1,0 +1,1 @@
+python part1.py < input.txt
